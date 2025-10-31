@@ -77,8 +77,7 @@ python 3D.py
 ```
 
 ## Citation
-### Coming Soon!
-<!-- ```
+```
 @inproceedings{koh2025intrinsic,
   title={Intrinsic-Guided Photorealistic Style Transfer for Radiance Fields},
   author={Koh, Hyunseo and Oh, Seunghyun and Jang, Jungyun and Kim, Heewon},
@@ -86,7 +85,7 @@ python 3D.py
   pages={65--74},
   year={2025}
 }
-``` -->
+```
 
 ## Acknowledgement
 
